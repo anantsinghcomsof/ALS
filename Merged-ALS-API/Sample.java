@@ -5,4 +5,6 @@ public class Sample {
     // This commit is on the sample branch.
 
     // This commit is also on the sample branch.
+
+    // This is another sample.
 }
